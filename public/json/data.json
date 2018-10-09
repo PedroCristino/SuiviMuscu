@@ -1,0 +1,84 @@
+{
+	"utilisateurs": [{
+			"id": 1,
+			"prenom": "Pedro",
+			"nom": "Cristino",
+			"login": "Padmin",
+			"password": "",
+			"archived": false
+		},
+		{
+			"id": 2,
+			"prenom": "Jean Jacques",
+			"nom": "Goldman",
+			"login": "JJ",
+			"password": "",
+			"archived": false
+		}
+	],
+	"muscles": [{
+			"id": 1,
+			"nom": "Pectoraux"
+		},
+		{
+			"id": 2,
+			"nom": "Biceps"
+		},
+		{
+			"id": 3,
+			"nom": "Triceps"
+		},
+		{
+			"id": 4,
+			"nom": "Dos"
+		},
+		{
+			"id": 5,
+			"nom": "Quadriceps"
+		},
+		{
+			"id": 6,
+			"nom": "Ischios"
+		},
+		{
+			"id": 7,
+			"nom": "Épaules"
+		},
+		{
+			"id": 8,
+			"nom": "Trapèzes"
+		}
+	],
+	"exercices": [{
+			"id": 1,
+			"libelle": "Développé couché",
+			"muscle": "Pectoraux"
+		},
+		{
+			"id": 2,
+			"libelle": "Développé incliné",
+			"muscle": "Pectoraux"
+		},
+		{
+			"id": 3,
+			"libelle": "Curl",
+			"muscle": "Biceps"
+		},
+		{
+			"id": 4,
+			"libelle": "Shrugs",
+			"muscle": "Trapèzes"
+		},
+		{
+			"id": 5,
+			"libelle": "Développé militaire",
+			"muscle": "Épaules"
+		},
+		{
+			"id": 6,
+			"libelle": "Squat",
+			"muscle": "Jambes"
+		}
+
+	]
+}
