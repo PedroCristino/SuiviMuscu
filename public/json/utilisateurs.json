@@ -1,0 +1,18 @@
+[
+	{
+		"id": 1,
+		"prenom": "Pedro",
+		"nom": "Cristino",
+		"login": "Padmin",
+		"password": "",
+		"archived": false
+	},
+	{
+		"id": 2,
+		"prenom": "Jean Jacques",
+		"nom": "Goldman",
+		"login": "JJ",
+		"password": "",
+		"archived": false
+	}
+]

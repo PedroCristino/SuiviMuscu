@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Home from "./Home";
 import Suivi from "./Suivi";
+import Gestion from "./Gestion";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 
 const routes = [
@@ -8,15 +9,15 @@ const routes = [
     component: Home,
     path: "/"
   },
- 
+
   //Selection
   {
     component: Suivi,
     path: "/Suivi"
   },
   {
-    component: Home,
-    path: "/nouvelle_hybridation"
+    component: Gestion,
+    path: "/Gestion"
   }
 ];
 
@@ -25,7 +26,7 @@ export default class App extends Component {
     const { path, component } = route;
     return <Route exact path={path} component={component} key={path} />;
   };
- 
+
   renderRoutes() {
     return routes.map(route => this.renderRoute(route));
   }
@@ -37,6 +38,3 @@ export default class App extends Component {
     );
   }
 }
- 
-
-

@@ -1,0 +1,22 @@
+[
+	{
+		id: "1",
+		SeanceId: "1",
+		SerieId: "1"
+	},
+	{
+		id: "2",
+		SeanceId: "1",
+		SerieId: "2"
+	},
+	{
+		id: "3",
+		SeanceId: "2",
+		SerieId: "1"
+	},
+	{
+		id: "4",
+		SeanceId: "2",
+		SerieId: "2"
+	},
+]

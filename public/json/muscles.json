@@ -1,0 +1,34 @@
+[
+	{
+		"id": 1,
+		"nom": "Pectoraux"
+	},
+	{
+		"id": 2,
+		"nom": "Biceps"
+	},
+	{
+		"id": 3,
+		"nom": "Triceps"
+	},
+	{
+		"id": 4,
+		"nom": "Dos"
+	},
+	{
+		"id": 5,
+		"nom": "Quadriceps"
+	},
+	{
+		"id": 6,
+		"nom": "Ischios"
+	},
+	{
+		"id": 7,
+		"nom": "Épaules"
+	},
+	{
+		"id": 8,
+		"nom": "Trapèzes"
+	}
+]

@@ -1,0 +1,33 @@
+[
+	{
+		"id": 1,
+		"libelle": "Développé couché",
+		"MuscleId": 1
+	},
+	{
+		"id": 2,
+		"libelle": "Développé incliné",
+		"MuscleId": 1
+	},
+	{
+		"id": 3,
+		"libelle": "Curl",
+		"MuscleId": 2
+	},
+	{
+		"id": 4,
+		"libelle": "Shrugs",
+		"MuscleId": 8
+	},
+	{
+		"id": 5,
+		"libelle": "Développé militaire",
+		"MuscleId": 7
+	},
+	{
+		"id": 6,
+		"libelle": "Squat",
+		"MuscleId": 5
+	}
+	
+]

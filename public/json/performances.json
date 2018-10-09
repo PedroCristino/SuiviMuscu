@@ -1,0 +1,51 @@
+[
+	{
+		id: "1",
+		libelle: "Poids",
+		valeur: "80",
+		commentaire: "gros lard",
+		UtilisateurId: "1",
+		date: "01/10/2018"
+	},
+	{
+		id: "2",
+		libelle: "Max DC",
+		valeur: "80",
+		commentaire: "nul",
+		UtilisateurId: "1",
+		date: "02/10/2018"
+	},
+	{
+		id: "3",
+		libelle: "Poids",
+		valeur: "78",
+		commentaire: "gg",
+		UtilisateurId: "1",
+		date: "09/10/2018"
+	},
+	{
+		id: "4",
+		libelle: "Poids",
+		valeur: "82",
+		commentaire: "gg",
+		UtilisateurId: "1",
+		date: "25/09/2018"
+	},
+	{
+		id: "5",
+		libelle: "Poids",
+		valeur: "84",
+		commentaire: "nul",
+		UtilisateurId: "1",
+		date: "15/09/2018"
+	},
+	{
+		id: "6",
+		libelle: "Poids",
+		valeur: "83",
+		commentaire: "nul",
+		UtilisateurId: "1",
+		date: "10/09/2018"
+	}
+	
+]

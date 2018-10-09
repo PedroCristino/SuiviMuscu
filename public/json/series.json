@@ -1,0 +1,16 @@
+[
+	{
+		id: "1",
+		ExerciceId: "6",
+		nombreRepetitions: "8",
+		tempsRepos: "90",
+		poids: "60"
+	},
+	{
+		id: "1",
+		ExerciceId: "1",
+		nombreRepetitions: "8",
+		tempsRepos: "90",
+		poids: "60"
+	}
+]
