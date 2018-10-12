@@ -1,0 +1,35 @@
+.center {
+  text-align: center;
+}
+.deleteCross {
+  color: red;
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+.exercicesList {
+  color: grey;
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+.editIcon {
+  margin-left: 5px;
+  margin-right: 5px;
+  color: #ffa600;
+  font-weight: bold;
+  font-size: 20px;
+  cursor: pointer;
+}
+.addButton {
+  margin-left: 5px;
+  margin-right: 5px;
+  color: #245000;
+  font-weight: bold;
+  font-size: 20px;
+  cursor: pointer;
+}

@@ -12,7 +12,7 @@ export default class Header extends Component {
       activeItem: path,
       items: [
         { path: "/", name: "Accueil" },
-        { path: "/Seance", name: "Seance" },
+        { path: "/Seances", name: "Seances" },
         { path: "/Suivi", name: "Suivi" },
         { path: "/Gestion", name: "Gestion" }
       ]

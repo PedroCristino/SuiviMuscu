@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Home from "./Home";
-import Suivi from "./Suivi";
+import Seances from "./Seances";
 import Gestion from "./Gestion";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 
@@ -12,8 +12,8 @@ const routes = [
 
   //Selection
   {
-    component: Suivi,
-    path: "/Suivi"
+    component: Seances,
+    path: "/Seances"
   },
   {
     component: Gestion,
